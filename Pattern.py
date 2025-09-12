@@ -1,0 +1,18 @@
+# Pattern in Python Language
+for i in range(1,6):
+    for j in range(1,6):
+        print("*", end="")
+    print()
+
+print("---------------Next Pattern-------------")
+for i in range(1,6):
+    for j in range(i,6):
+        print("*",end="")
+    print()
+    
+print("---------------Next Pattern-------------")
+r = 5
+for i in range(1,r+1):
+    for j in range(1,i+1):
+        print("*",end="")
+    print()
