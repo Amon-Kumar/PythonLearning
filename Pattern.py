@@ -8,7 +8,7 @@ print("---------------Next Pattern-------------")
 for i in range(1,6):
     for j in range(i,6):
         print("*",end="")
-    print()
+    print()e
     
 print("---------------Next Pattern-------------")
 r = 5
