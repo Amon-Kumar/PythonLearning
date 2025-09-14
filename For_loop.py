@@ -8,7 +8,7 @@ for i in range(11):
 print("***********************************")
 
 # Loop in List
-fruits = ['Apple',"Mango",'Grapess']
+fruits = ['Apple',"Mango" ,'Grapess']
 for f in fruits:
     print(f)
 
